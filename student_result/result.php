@@ -57,7 +57,7 @@ function calculateResult($marks) {
 
 // Example marks for valid data.
 $studentMarks = array(
-	'Math' => 85,
+    'Math' => 85,
     'English' => 78,
     'Science' => 62,
     'History' => 56,
@@ -67,7 +67,7 @@ calculateResult($studentMarks);
 
 // Example marks for invalid data.
 $studentMarks = array(
-	'Math' => 105,
+    'Math' => 105,
     'English' => 78,
     'Science' => 62,
     'History' => 56,
